@@ -2,12 +2,12 @@
 <!-- .slide: data-menu-title="Title page" data-background-image="images/TG-on-white.png" data-background-opacity="1.0" -->
 ## Inspiratiesessie
 
-**'Hoe toegankelijk is uw gemeente?'**
-\
-\
-\
+**'Hoe toegankelijk is uw gemeente?'**  
+  
+**|**  
+**|**
 
-** Werkgroep toegankelijkheid i.o. Delfzijl**
+**Werkgroep toegankelijkheid i.o. Delfzijl**
 
 Note:
   Webserver presentation, so start server in slides directory
@@ -44,7 +44,6 @@ Note:
 <!-- .slide: data-menu-title="Werkgroep i.o. Delfzijl" -->
 ## Werkgroep i.o. Delfzijl
 
- **Agenda:**
 1. punt 1
 2. punt 2
 3. punt 3
