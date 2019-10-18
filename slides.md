@@ -3,6 +3,11 @@
 ## Inspiratiesessie
 
 **'Hoe toegankelijk is uw gemeente?'**
+\
+\
+\
+
+** Werkgroep toegankelijkheid i.o. Delfzijl**
 
 Note:
   Webserver presentation, so start server in slides directory
@@ -33,14 +38,6 @@ Note:
     -  Change the Margins to None.
     -  Enable the Background graphics option.
     -  Click Save.
-
----
-
-<!-- .slide: data-menu-title="Agenda" data-background-image="images/stopwatch.jpg" data-background-opacity="0.2" -->
-## Agenda:
-
-1. Werkgroep toegankelijkheid i.o. Delfzijl
-2. Vragen?
 
 ---
 
