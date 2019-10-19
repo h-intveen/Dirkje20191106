@@ -4,8 +4,7 @@
 
 **'Hoe toegankelijk is uw gemeente?'**  
   
-**|**  
-**|**
+</br></br>
 
 **Werkgroep toegankelijkheid i.o. Delfzijl**
 
