@@ -61,6 +61,18 @@ Note:
 
 --
 
+<!-- .slide: data-menu-title="Overvol toilet" data-background-image="images/OvervolToilet-3.jpg" data-background-opacity="1,0" -->
+
+--
+
+<!-- .slide: data-menu-title="Overvol toilet" data-background-image="images/WC-deur-logo-3.jpg" data-background-opacity="1.0" -->
+
+--
+
+![Parkeerbord verspert stoep](images/WC-deur-logo-1.jpg)
+
+--
+
 ## Punt 2
 
 - punt a
