@@ -110,7 +110,7 @@ Note:
 ## Vervolgstappen
 
 - Bijeenkomst gemeente en burgers
-- Presentatie toegankelijkheid
+- Presentatie toegankelijkheid  
   bijhouden ontwikkelingen
   - lezen rapporten
   - nieuwe regels
