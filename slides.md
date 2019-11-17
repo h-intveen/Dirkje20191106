@@ -81,7 +81,7 @@ Note:
 ## Aanpak stationsgebied
 
 - Aankondiging krant
-- Werkgroep Delfzijl – Het Hogeland
+- Werkgroep Delfzijl - Het Hogeland  
   Leider: Matthieu van Etten
   - naar winkeliers
   - met gemeente
@@ -101,7 +101,7 @@ Note:
 
 - Afspraak wethouder en beleidsmedewerker  
   Nuttig en verhelderend
-- Conclusie:
+- Conclusie:  
   Samenwerken ook goed voor de gemeente
 - Ervaringsdeskundigen VN-verdrag
 
