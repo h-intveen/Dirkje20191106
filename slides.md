@@ -43,21 +43,11 @@ Note:
 <!-- .slide: data-menu-title="Werkgroep i.o. Delfzijl" -->
 ## Werkgroep i.o. Delfzijl
 
-1. punt 1
-2. punt 2
+1. Foto's hoe het niet moet...
+2. Begin werkgroep Delfzijl
 3. punt 3
 4. punt 4
 5. punt 5
-
---
-
-## Punt 1
-
-- punt a
-- punt b
-- punt c
-- punt d
-- punt e
 
 --
 
@@ -69,51 +59,58 @@ Note:
 
 --
 
-![Parkeerbord verspert stoep](images/WC-deur-logo-1.jpg)
+## Begin van de werkgroep
+
+- Aanleiding: Kindcentrum Spijk
+- Toetsing op VN-verdrag
+- Beleidsmedewerker -> Dirkje
 
 --
 
-## Punt 2
+## Beoordelen tekening Kindcentrum
 
-- punt a
-  - x
-  - y
-- punt b
-  1. a
-  2. b
-- punt c
-- punt d
-- punt e
+- Afspaak met Erik
+- Tekening bekeken
+- Ook review Herman
+- Aanpassingen geïdentificeerd
 
 --
 
-## Punt 3
+## Aanpak stationsgebied
 
-- punt a
-- punt b
-- punt c
-- punt d
-- punt e
-
---
-
-## Punt 4
-
-- punt a
-- punt b
-- punt c
-- punt d
-- punt e
+- Aankondiging krant
+- Gekeken wie wie dat
+- Werkgroep toegankelijkheid Delfzijl – Het Hogeland
+  Matthieu van Etten
+  - winkeliers gemeente
+  - brug naar strand
 
 --
 
-## Punt 5
+## Besluit samenwerking
 
-- punt a
-- punt b
-- punt c
-- punt d
-- punt e
+- Samen sterker
+- Zelfde doel
+- Een gezicht naar gemeente
+
+--
+
+## Eerste stappen
+
+- Afspraak wethouder en beleidsmedewerker
+  Nuttig en verjelderend
+- Conclusie:
+  Samenwerken ook goed voor de gemeente
+- Ervaringsdeskundigen VN-verdrag
+
+## Volgende stappen
+
+- Bijeenkomst gemeente en burgers
+- Presentatie toegankelijkheid
+  bijhouden ontwikkelingen
+  - lezen rapporten
+  - nieuwe regels
+- werven ervaringsdeskundigen
 
 ---
 
