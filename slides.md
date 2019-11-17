@@ -45,9 +45,11 @@ Note:
 
 1. Foto's hoe het niet moet...
 2. Begin werkgroep Delfzijl
-3. punt 3
-4. punt 4
-5. punt 5
+3. Beoordelen tekening Kindcentrum
+4. Aanpak stationsgebied
+5. Besluit samenwerking
+6. Eerste stappen
+7. Vervolgstappen
 
 --
 
@@ -72,18 +74,18 @@ Note:
 - Afspaak met Erik
 - Tekening bekeken
 - Ook review Herman
-- Aanpassingen geïdentificeerd
+- Aanpassingen geidentificeerd
 
 --
 
 ## Aanpak stationsgebied
 
 - Aankondiging krant
-- Gekeken wie wie dat
-- Werkgroep toegankelijkheid Delfzijl – Het Hogeland
-  Matthieu van Etten
-  - winkeliers gemeente
-  - brug naar strand
+- Werkgroep Delfzijl – Het Hogeland
+  Leider: Matthieu van Etten
+  - naar winkeliers
+  - met gemeente
+- Vennenplein, brug naar strand
 
 --
 
@@ -97,13 +99,13 @@ Note:
 
 ## Eerste stappen
 
-- Afspraak wethouder en beleidsmedewerker
-  Nuttig en verjelderend
+- Afspraak wethouder en beleidsmedewerker  
+  Nuttig en verhelderend
 - Conclusie:
   Samenwerken ook goed voor de gemeente
 - Ervaringsdeskundigen VN-verdrag
 
-## Volgende stappen
+## Vervolgstappen
 
 - Bijeenkomst gemeente en burgers
 - Presentatie toegankelijkheid
