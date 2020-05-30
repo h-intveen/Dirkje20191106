@@ -6,7 +6,7 @@
   
 </br></br>
 
-**Werkgroep toegankelijkheid i.o. Delfzijl**
+**Werkgroep toegankelijkheid i.o. Eemsdelta**
 
 Note:
   Initial setup reveal.js presentation
