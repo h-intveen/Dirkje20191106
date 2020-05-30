@@ -46,7 +46,7 @@ Note:
 
 --
 
-<!-- .slide: data-menu-title="Overvol toilet" data-background-image="images/WC-deur-logo-3.jpg" data-background-opacity="1.0" -->
+<!-- .slide: data-menu-title="WC-deur logo" data-background-image="images/WC-deur-logo-3.jpg" data-background-opacity="1.0" -->
 
 --
 
@@ -97,6 +97,16 @@ Note:
 - Conclusie:  
   Samenwerken ook goed voor de gemeente
 - Ervaringsdeskundigen VN-verdrag
+
+--
+
+## Verbreding
+
+- Bijeenkomst met VN-Ambassadeur Delfzijl
+  Tevens raadslid 
+- Had al contact gezocht met AGA Appingedam
+- Wil verbreding naar gemeente Eemsdelta
+- Samenwerking met ZaVie
 
 --
 
