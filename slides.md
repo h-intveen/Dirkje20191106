@@ -33,8 +33,8 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Werkgroep i.o. Delfzijl" -->
-## Werkgroep i.o. Delfzijl
+<!-- .slide: data-menu-title="Werkgroep i.o. Eemsdelta" -->
+## Werkgroep i.o. Eemsdelta
 
 1. Foto's hoe het niet moet...
 2. Begin werkgroep Delfzijl
