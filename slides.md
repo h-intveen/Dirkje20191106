@@ -111,11 +111,11 @@ Printing
   Tevens raadslid 
 - Had al contact gezocht met AGA Appingedam
 - Verbreding naar gemeente Eemsdelta i.o.\
-  Samenwerking met ZaVie
+  Samenwerking met zaVie
 
 --
 
-## Vervolgstappen
+## Vervolgstappens
 
 - Bijeenkomst gemeente en burgers
 - Presentatie toegankelijkheid  
