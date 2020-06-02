@@ -110,7 +110,7 @@ Printing
 - Bijeenkomst met VN-Ambassadeur Delfzijl\
   Tevens raadslid 
 - Had al contact gezocht met AGA Appingedam
-- Wil verbreding naar gemeente Eemsdelta\
+- Wil verbreding naar gemeente Eemsdelta i.o.\
   Samenwerking met ZaVie
 
 --
