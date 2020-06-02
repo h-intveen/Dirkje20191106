@@ -21,7 +21,12 @@ Note:
   - Speaker notes window : hit »S« on your keyboard.
   - Pause presentation :  hit »B« or ».«
   - Show menu: hit »M«
-  Printing
+  MacOS
+    Start server in terminal window (i.e. in slides directory)
+      python3 -m http.server 9000 (Python3)
+    View by browsing to:
+      http://localhost:9000 (Python3)
+Printing
   -  http://localhost:8000/?print-pdf
   -  http://localhost:8000/?print-pdf&showNotes=true
   -  Open the in-browser print dialog (CTRL/CMD+P).
@@ -102,11 +107,11 @@ Note:
 
 ## Verbreding
 
-- Bijeenkomst met VN-Ambassadeur Delfzijl
+- Bijeenkomst met VN-Ambassadeur Delfzijl\
   Tevens raadslid 
 - Had al contact gezocht met AGA Appingedam
-- Wil verbreding naar gemeente Eemsdelta
-- Samenwerking met ZaVie
+- Wil verbreding naar gemeente Eemsdelta\
+  Samenwerking met ZaVie
 
 --
 
